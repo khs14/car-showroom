@@ -1,0 +1,11 @@
+Honda,Amaze,2015,petrol,manual,6.43,2,69
+Hyundai,Venue,2022,petrol,manual,7.6,3,69
+Hyundai,Venue,2022,diesel,manual,9,3,69
+BMW,i8,2017,petrol,automatic,0.69,5,420
+Maruti,Baleno,2022,petrol,automatic,6.40,9,69
+Maruti,Baleno,2022,petrol,manual,6.40,0,69
+Toyota,Fortuner,2022,petrol,manual,33.38,8,42
+Mahindra,Bolero,2022,petrol,automatic,9.56,5,42
+Tata,Safari,2021,petrol,automatic,15.23,2,42
+Ford,Mustang,2016,petrol,manual,0.7,4,420
+Nissan,GTR,2019,petrol,manual,2.23,1,420

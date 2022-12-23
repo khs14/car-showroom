@@ -1,0 +1,6 @@
+Honda,Amaze,2015,petrol,manual,6.43,2,city
+Hyundai,Venue,2022,petrol,manual,7.6,3,city
+Hyundai,Venue,2022,diesel,manual,9,3,city
+BMW,i4,2022,electric,automatic,69.90,5,sport
+Maruti,Baleno,2022,petrol,automatic,6.40,1,city
+Maruti,Baleno,2022,petrol,manual,6.40,1,city
